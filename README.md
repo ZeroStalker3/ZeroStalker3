@@ -38,4 +38,4 @@
 
 ---
 
-![GIF](https://github.com/ZeroStalker3/repo/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif)
+![I AM ATOMIC](https://github.com/ZeroStalker3/ZeroStalker3/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif)
