@@ -38,4 +38,4 @@
 
 ---
 
-![GIF](https://github.com/ZeroStalker3/repo/blob/main/the-eminence-in-shadow-the-eminence-of-shadow.gif)
+![GIF](https://github.com/ZeroStalker3/repo/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif)
