@@ -1,8 +1,41 @@
-<h1 align="center">Hi there, I'm <a href="https://steamcommunity.com/id/zerosst/" target="_blank">𝒵𝑒𝓇𝑜</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Junior programmer (<img height="24" width="24" src="https://unpkg.com/simple-icons@v9/icons/csharp.svg" />), like video gaming and coding <img height="19" width="19" 
-                                                                                                                                                                src="https://unpkg.com/simple-icons@v9/icons/codeium.svg"/></h3>
-<h3 align = "center"> I know Russian well, and English is in the process of learning (I'm good at texting, but live communication and understanding of speech are not particularly good).</h3>
-<h3 align = "center"> If you are interested in asking, learning or just chatting, then write to me at: </h3> <br/>
-<h3><a href="https://discord.com/users/373804077932609536" target="_blank" ><b>Discord</b></a> </br>
-<a href="https://steamcommunity.com/id/zerosst/" target="_blank"><b>Steam</b></a></h3>
+# 👋 Привет, я Zero!  
+Добро пожаловать в мой профиль GitHub! Здесь я делюсь своими проектами и эксперементами, которые помогают мне расти как разработчику.
+
+---
+
+## 🌟 Обо мне
+- 💻 **Основной язык:** C#
+- 🐍 Немного владею Python
+- 🛠️ Работаю с SQL (MSSQL, T-SQL)
+- 🌱 Сейчас изучаю: [ASP.NET, Entity Framework, Data Science, Unity]
+
+---
+
+## 🚀 Свяжитесь со мной
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroStalker3)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/373804077932609536)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeroyzz)
+
+---
+
+## ✨ Мои цели
+- Создавать полезные и масштабируемые приложения
+- Делать вклад в проекты с открытым исходным кодом
+- Стать экспертом в C# и .NET экосистеме
+
+---
+
+## 📈 Статистика GitHub
+![языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![статистика](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### 🔧 Инструменты и технологии
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+![GIF](https://github.com/ZeroStalker3/repo/blob/main/the-eminence-in-shadow-the-eminence-of-shadow.gif)
