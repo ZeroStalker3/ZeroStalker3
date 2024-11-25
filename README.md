@@ -27,7 +27,7 @@
 
 ## 📈 Статистика GitHub
 ![языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![статистика](https://github-readme-stats.vercel.app/api?username=ZeroStalekr3&show_icons=true&theme=radical)
+![статистика](https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical)
 
 ---
 
