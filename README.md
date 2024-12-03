@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroStalker3&layout=compact&theme=radical" alt="языки программирования" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical" alt="статистика" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroStalker3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=1&custom_title=Languages" alt="статистика" />
 </div>
 
 ---
