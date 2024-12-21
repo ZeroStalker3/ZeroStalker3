@@ -61,11 +61,7 @@
 ---
 
 ## 📈 **Статистика GitHub**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroStalker3&layout=compact&theme=radical" alt="языки программирования" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical&layout=compact" alt="статистика" />
-</div>
+
 
 ---
 
