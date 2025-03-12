@@ -60,6 +60,15 @@
 
 ---
 
+## 📈 **Статистика GitHub**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroStalker3&langs_count=8&layout=compact&theme=radical" alt="языки программирования" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical&layout=compact" alt="статистика" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://github.com/ZeroStalker3/ZeroStalker3/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif" alt="I AM ATOMIC" width="600" />
 </div>
