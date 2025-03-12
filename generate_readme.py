@@ -3,7 +3,7 @@ import requests
 def fetch_stats():
     stats_url = "https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical&layout=compact"
     langs_url = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroStalker3&layout=compact&theme=radical"
-    
+
     stats = requests.get(stats_url).content.decode()
     langs = requests.get(langs_url).content.decode()
     
