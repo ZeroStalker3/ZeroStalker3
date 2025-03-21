@@ -53,7 +53,7 @@
   <a href="https://discord.com/users/373804077932609536" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/zeroyzz" target="_blank">
+  <a href="https://t.me/Shad_Zero" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
