@@ -2,8 +2,8 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 3 * * *'  
+  workflow_dispatch:    
 
 jobs:
   update-readme:
@@ -11,25 +11,23 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
-    - name: Install Requests library
+    - name: Install dependencies
       run: pip install requests
 
-    - name: Generate README with updated graphs
+    - name: Generate README with updated statistics
       run: python generate_readme.py
-
-    - name: Check for changes
-      run: git diff --exit-code README.md || echo "README.md has changes"
 
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add README.md
-        git diff --quiet || (git commit -m "Update README with latest stats" && git push)
+        git diff --cached --quiet || git commit -m "Update README with latest stats [auto]"
+        git push
