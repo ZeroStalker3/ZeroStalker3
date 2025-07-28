@@ -58,13 +58,6 @@
   </a>
 </div>
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroStalker3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroStalker3&layout=compact&theme=radical)
-
----
-
 <div align="center">
   <img src="https://github.com/ZeroStalker3/ZeroStalker3/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif" alt="I AM ATOMIC" width="600" />
 </div>
