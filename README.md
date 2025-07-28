@@ -58,6 +58,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://github.com/ZeroStalker3/ZeroStalker3/raw/main/the-eminence-in-shadow-the-eminence-of-shadow.gif" alt="I AM ATOMIC" width="600" />
 </div>
