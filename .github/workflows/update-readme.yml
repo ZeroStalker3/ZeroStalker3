@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - uses: anuraghazra/github-readme-stats@v2
+      with:
+        username: ${{ github.repository_owner }}
+        show_icons: true
+        theme: radical
+        include_all_commits: true
+        count_private: true
+    - uses: anuraghazra/github-readme-stats@v2
+      with:
+        username: ${{ github.repository_owner }}
+        layout: compact
+        theme: radical
+    - name: Commit & Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Updated README" -a
+        git push
