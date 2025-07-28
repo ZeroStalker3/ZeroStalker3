@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 > *"Как только вы решите, что находитесь на вершине, вы перестанете двигаться"*   
 
 ## 🌌 **Для тех, кто осмелился взглянуть в тень**  
@@ -41,6 +42,10 @@
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </div>
+
+---
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 ---
 
